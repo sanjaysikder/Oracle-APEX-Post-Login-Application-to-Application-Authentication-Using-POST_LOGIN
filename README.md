@@ -403,3 +403,13 @@ For Oracle APEX application-to-application authentication:
 * Redirect only after successful authentication
 
 This architecture provides a secure and scalable mechanism for Oracle APEX Single Sign-On between multiple enterprise applications.
+
+
+## Thank you
+
+**Sanjay Sikder**
+
+## 📬 Contact
+
+- 💼 LinkedIn: [Sanjay Sikder](https://www.linkedin.com/in/sanjay-sikder/)
+- 📧 Email: sanjaysikder71@gmail.com
